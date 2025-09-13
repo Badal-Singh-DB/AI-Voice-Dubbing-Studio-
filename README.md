@@ -2,7 +2,8 @@
 # 🎬 AI Voice Dubbing Studio
 
 <div align="center">
-https://github.com/Badal-Singh-DB/AI-Voice-Dubbing-Studio-/edit/main/README.md#:~:text=Screenshot%202025%2D09,31
+![AI Voice Dubbing Studio Screenshot](project/Screenshot%202025-09-13%20200120.png)
+
 **Transform any video with AI-powered voice dubbing technology**
 
 </div>
