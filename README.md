@@ -13,7 +13,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 [Demo](https://ai-dubbing-studio.vercel.app) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Contributing](#contributing)
-
 </div>
 
 ---
