@@ -2,7 +2,7 @@
 # 🎬 AI Voice Dubbing Studio
 
 <div align="center">
-![AI Voice Dubbing Studio](public/Screenshot%202025-09-13%20200120.png)
+
 **Transform any video with AI-powered voice dubbing technology**
 
 </div>
