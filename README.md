@@ -1,8 +1,8 @@
-### 🎬 Demo Screenshot  
-Transform any video with AI-powered voice dubbing technology  
-![AI Voice Dubbing Studio Screenshot](Screenshot%202025-09-13%20200120.png)
-
 # 🎬 AI Voice Dubbing Studio
+
+
+![](Screenshot%202025-09-13%20200120.png)
+
 
 <div align="center">
 
