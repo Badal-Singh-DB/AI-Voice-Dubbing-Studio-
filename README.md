@@ -3,8 +3,6 @@
 
 <div align="center">
 
-![AI Voice Dubbing Studio](https://images.pexels.com/photos/3784324/pexels-photo-3784324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 **Transform any video with AI-powered voice dubbing technology**
 
 
